@@ -3,11 +3,9 @@ Udacity Talks Subtitle Translation (Chinese)
 
 ### In process:
 
-[Intersect 2017: Astro Teller and Sebastian Thrun](Intersect-2017/001-Astro-Teller-and-Sebastian-Thrun) [Watch on [YouTube](https://www.youtube.com/watch?v=QiGN5pey8TM) / [China S3](https://s3.cn-north-1.amazonaws.com.cn/static-documents/udacity_talk/001-Astro-Teller-and-Sebastian-Thrun.mp4)]
+[Intersect 2017: Astro Teller and Sebastian Thrun](2017/Intersect-Astro-Teller-and-Sebastian-Thrun) [Watch on [YouTube](https://www.youtube.com/watch?v=QiGN5pey8TM) / [China S3](https://s3.cn-north-1.amazonaws.com.cn/static-documents/udacity_talk/001-Astro-Teller-and-Sebastian-Thrun.mp4)]
 
-- [done] English subtitle
-- [doing] Translate subtitle
-- [to-do] Publish subtitled video
+[Udacity talk: Kai-fu Lee and and Sebastian Thrun](2017/Kai-fu-Lee-and-Sebastian-Thrun) [Watch on [China S3](https://s3.cn-north-1.amazonaws.com.cn/static-documents/udacity_talk/002-Kai-fu+Lee.mp4)]
 
 ### Who can participate
 
