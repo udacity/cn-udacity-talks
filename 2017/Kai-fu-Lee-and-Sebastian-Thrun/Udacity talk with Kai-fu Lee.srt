@@ -4485,7 +4485,7 @@ I said specifically once.
 
 898
 00:39:31,741 --> 00:39:33,815
-Timmy想知道现在最有可能
+Timmy 想知道现在最有可能
 they know want to know, Timmy wants to know which are
 
 899
@@ -4495,7 +4495,7 @@ the most likely to be taken over now.
 
 900
 00:39:36,788 --> 00:39:39,460
-而Carol想知道对于长远来说
+而 Carol 想知道对于长远来说
 And carol wants to know which is the safest job
 
 901
@@ -4550,7 +4550,7 @@ Again, we reaffirm the point that
 
 911
 00:40:00,352 --> 00:40:02,324
-金融是最好的AI技术应用程序
+金融是最好的 AI 技术应用程序
 finances are the best AI app.
 
 912
@@ -4560,8 +4560,8 @@ But also you know, certain jobs,
 
 913
 00:40:04,922 --> 00:40:06,774
-有特殊要求的（？）工作 工人是危险的
-particular character degree (?) jobs,
+有特殊要求的工作 工人是危险的
+particular character degree jobs,
 
 914
 00:40:06,926 --> 00:40:10,641
@@ -4835,7 +4835,7 @@ put here my notes and say, in brackets,
 
 968
 00:42:53,367 --> 00:42:56,547
-你可以介绍一下Udacity是做什么的"
+你可以介绍一下 Udacity 是做什么的"
 you could introduce what is Udacity doing here",
 
 969
@@ -5319,7 +5319,7 @@ where you may kill 1 person a day
 
 1065
 00:47:02,833 --> 00:47:04,096
-（可能你不会这么做）
+可能你不会这么做
 might not do it.
 
 1066
@@ -5589,7 +5589,7 @@ well I think I would be alive,
 
 1119
 00:49:21,180 --> 00:49:24,098
-长寿是AI技术
+长寿是 AI 技术
 because human longevity is one of the great
 
 1120
@@ -5654,7 +5654,7 @@ and lose their motivation.
 
 1132
 00:49:51,495 --> 00:49:54,555
-而且VR的工作效果还不错
+而且 VR 技术的发展也很好
 And also with the VR working so well,
 
 1133
@@ -5704,60 +5704,73 @@ I think we continue to fall into traps
 
 1142
 00:50:17,052 --> 00:50:22,399
-人们可能会继续选择这种生活
+可能还有他人的尊重
 because we chase money and fame,
 
 1143
 00:50:23,048 --> 00:50:26,850
-
+人们可能会继续选择这种生活
+Or respect, I should say.
 
 1144
 00:50:26,870 --> 00:50:31,150
-
+我们的父母告诉我们去当医生 当律师
+When our parents tell us, be a doctor, lawyer,
 
 1145
 00:50:31,269 --> 00:50:35,083
-
+去商学院 做工程师
+go to businees school, be an engineer
 
 1146
 00:50:35,237 --> 00:50:37,614
-
+他们实际上是在和我们说追逐声望和金钱
+They are telling us to chase after respect and money.
 
 1147
 00:50:37,744 --> 00:50:41,346
-
+但是这类工作 很多都会消失
+But many of these jobs will be gone. 
 
 1148
 00:50:41,366 --> 00:50:44,189
-
+就好像是造物主在说
+So this may be our creator's way to tell us that, 
 
 1149
 00:50:44,209 --> 00:50:47,369
-
+你看 既然你没办法找到自己的人生方向
+look, you cannot seem to find your own path, 
 
 1150
 00:50:47,389 --> 00:50:50,390
-
+那我就创造一个 AI
+So I'm gonna create an AI to 
 
 1151
 00:50:50,508 --> 00:50:54,785
-
+让你根本没有选择可选
+remove those possiblities from your consideration. 
 
 1152
 00:50:54,805 --> 00:50:58,084
-
+你们人类得找到自己的命运和归宿
+So you guys, human kinds, need to find your own destiny. 
 
 1153
 00:50:58,104 --> 00:51:01,614
-
+所以我想加入这次大探险
+So I'd love to be part of that exploration, 
 
 1154
 00:51:01,634 --> 00:51:04,954
-
+看看这次冒险里 是科学与创造性更加重要
+to see whether that's something scientific and creative
 
 1155
 00:51:04,974 --> 00:51:08,899
-
+还是信仰更加重要
+or something that's spiritual and religious,
 
 1156
 00:51:08,919 --> 00:51:12,110
@@ -6066,7 +6079,7 @@ we have courses on line in Chinese, cn.udacity.com,
 
 1217
 00:53:57,493 --> 00:54:00,549
-两天之内注册会有折扣
+最近两天报名 会有折扣
 for two days if you sign up you get a rebate.
 
 1218
